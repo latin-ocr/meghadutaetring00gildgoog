@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./meghadutaetring00gildgoog_0009.png"; bbox 0 0 3675 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 620 1861 2819 2027">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 620 1861 2819 2027">
+     <span class='ocr_line' id='line_1_1' title="bbox 620 1861 2819 2027; baseline 0.003 -62"><span class='ocrx_word' id='word_1_1' title='bbox 620 1863 1253 1968; x_wconf 72' lang='lat' dir='ltr'>KALmA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1264 1861 1584 1971; x_wconf 63' lang='grc' dir='ltr'><strong>ΒΑΕ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1779 1861 2819 2027; x_wconf 71' lang='lat' dir='ltr'>MEGHADIJTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 944 2588 2345 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 944 2588 2345 2714">
+     <span class='ocr_line' id='line_1_2' title="bbox 944 2588 2345 2714; baseline 0.016 -59"><span class='ocrx_word' id='word_1_4' title='bbox 944 2649 951 2655; x_wconf 87' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1100 2588 2345 2714; x_wconf 64' lang='lat' dir='ltr'><strong>QRINGARAULAKA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3575 3610 3658 3637">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3575 3610 3658 3637">
+     <span class='ocr_line' id='line_1_3' title="bbox 3575 3610 3658 3637; baseline 0.012 -9"><span class='ocrx_word' id='word_1_6' title='bbox 3575 3610 3658 3637; x_wconf 57' lang='lat'><strong>‘‘‘‘‘</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3505 1910 3675 3771">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3505 1910 3675 3771">
+     <span class='ocr_line' id='line_1_4' title="bbox 3505 1910 3675 3771; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 3579 3744 3656 3771; x_wconf 56' lang='grc' dir='ltr'><em>ς</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 3529 3630 3661 3685; x_wconf 63' lang='grc' dir='ltr'><strong>ἕῒ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 3505 3450 3588 3606; x_wconf 60' lang='lat'><em>²</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 3511 3174 3671 3431; x_wconf 48' lang='lat'><strong>523¹.)</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 3518 2514 3675 3122; x_wconf 63' lang='lat' dir='ltr'>comm?</span> <span class='ocrx_word' id='word_1_12' title='bbox 3530 2183 3675 2473; x_wconf 66' lang='grc' dir='ltr'><strong>ΗΒΕ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 3539 1910 3675 2166; x_wconf 74' lang='grc' dir='ltr'><strong>ΜΝ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

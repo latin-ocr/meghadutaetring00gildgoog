@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./meghadutaetring00gildgoog_0045.png"; bbox 0 0 3675 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3449 3562 3585 3649">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3449 3562 3585 3649">
+     <span class='ocr_line' id='line_1_1' title="bbox 3449 3562 3508 3579; baseline 0 -8"><span class='ocrx_word' id='word_1_1' title='bbox 3449 3570 3458 3579; x_wconf 68' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 3501 3562 3508 3571; x_wconf 83' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 3449 3572 3581 3608; baseline 0 -9"><span class='ocrx_word' id='word_1_3' title='bbox 3449 3580 3508 3608; x_wconf 54' lang='lat' dir='ltr'><strong><em>fn&amp;</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3514 3572 3581 3599; x_wconf 61' lang='grc' dir='ltr'><strong><em>ἰἰἰἰ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 3483 3618 3585 3649; baseline 0.02 -2"><span class='ocrx_word' id='word_1_5' title='bbox 3483 3618 3585 3649; x_wconf 65' lang='grc' dir='ltr'><strong><em>,&lt;*ἶ“·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
